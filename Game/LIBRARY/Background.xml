@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Background" itemID="4ffca7ab-00000011" lastModified="1341959043">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Background" itemID="4ffca7ab-00000011" lastModified="1341961403">
   <timeline>
     <DOMTimeline name="Background">
       <layers>
@@ -25,14 +25,6 @@
                     <Edge fillStyle1="1" strokeStyle="1" edges="!-7600 -6000|7600 -6000!7600 -6000|7600 6000!7600 6000|-7600 6000!-7600 6000|-7600 -6000"/>
                   </edges>
                 </DOMShape>
-                <DOMSymbolInstance libraryItemName="Carro" selected="true">
-                  <matrix>
-                    <Matrix ty="0.05"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
