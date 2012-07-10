@@ -3,6 +3,7 @@
           <Include href="Background.xml" loadImmediate="false" itemID="4ffca7ab-00000011" lastModified="1341959043"/>
           <Include href="Carro.xml" loadImmediate="false" itemID="4ffca7c4-00000016" lastModified="1341958085"/>
           <Include href="CarroAzul.xml" loadImmediate="false" itemID="4ffcae73-00000013" lastModified="1341959795"/>
+          <Include href="Quadrado.xml" loadImmediate="false" itemID="4ffcaff0-00000021" lastModified="1341960176"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">
@@ -27,12 +28,52 @@
                                                   <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
-                                        <DOMSymbolInstance libraryItemName="Carro" selected="true" centerPoint3DX="556.95" centerPoint3DY="448.35">
+                                        <DOMSymbolInstance libraryItemName="Carro" centerPoint3DX="556.95" centerPoint3DY="448.35">
                                              <matrix>
                                                   <Matrix tx="556.95" ty="448.4"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="CarroAzul" centerPoint3DX="690.95" centerPoint3DY="341.35">
+                                             <matrix>
+                                                  <Matrix tx="690.95" ty="341.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carro" centerPoint3DX="609.95" centerPoint3DY="115.35">
+                                             <matrix>
+                                                  <Matrix tx="609.95" ty="115.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carro" centerPoint3DX="376.95" centerPoint3DY="154.35">
+                                             <matrix>
+                                                  <Matrix tx="376.95" ty="154.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Carro" centerPoint3DX="184" centerPoint3DY="359.35">
+                                             <matrix>
+                                                  <Matrix tx="184" ty="359.4"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point y="-0.05"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                        <DOMSymbolInstance libraryItemName="Quadrado" selected="true" centerPoint3DX="122.75" centerPoint3DY="168.75">
+                                             <matrix>
+                                                  <Matrix tx="122.75" ty="168.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
                                              </transformationPoint>
                                         </DOMSymbolInstance>
                                    </elements>
