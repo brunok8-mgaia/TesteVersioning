@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Carro" itemID="4ffca7c4-00000016" lastModified="1341958085">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="CarroAzul" itemID="4ffcae73-00000013" lastModified="1341959795">
   <timeline>
-    <DOMTimeline name="Carro">
+    <DOMTimeline name="CarroAzul">
       <layers>
         <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
           <frames>
@@ -9,12 +9,12 @@
                 <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor color="#FFFFCC"/>
+                      <SolidColor color="#33FFFF"/>
                     </FillStyle>
                   </fills>
                   <strokes>
                     <StrokeStyle index="1">
-                      <SolidStroke scaleMode="normal" weight="3">
+                      <SolidStroke scaleMode="normal">
                         <fill>
                           <SolidColor/>
                         </fill>
@@ -22,7 +22,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge fillStyle1="1" strokeStyle="1" edges="!1381 860|-1380 860!-1380 860|-1380 -861!-1380 -861|1381 -861!1381 -861|1381 860"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!570 490S6|-570 490!-570 490|-570 -490!-570 -490|570 -490!570 -490|570 490"/>
                   </edges>
                 </DOMShape>
               </elements>
